@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb://mgitiyas:kata1234@mgi-shard-00-00.xyx2v.mongodb.net:27017,mgi-shard-00-01.xyx2v.mongodb.net:27017,mgi-shard-00-02.xyx2v.mongodb.net:27017/mgi_tiyas?ssl=true&replicaSet=atlas-kr18db-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
